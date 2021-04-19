@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+title: 刘朕-Richard/Hernando # Website name
+baseurl: 'https://lzrichard.netlify.app' # Website URL
+copyright: '© {2021} 刘朕' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
